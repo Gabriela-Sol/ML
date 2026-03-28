@@ -112,3 +112,13 @@ dmypy.json
 models/*.pkl
 models/*.h5
 models/*.joblib
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+.DS_Store
