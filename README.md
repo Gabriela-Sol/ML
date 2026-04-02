@@ -24,18 +24,4 @@ Este repositorio contiene el flujo completo para el análisis y predicción de A
    pip install -r requirements.txt
    ```
 
-## 📓 Notebooks recomendados
-- `01_data_loading.ipynb` — Carga y exploración inicial de datos
-- `02_data_processing_reordered_professional (1).ipynb` — Procesamiento y EDA profesional
-- `03_model_training.ipynb` — Entrenamiento de modelos
-- `04_model_evaluation.ipynb` — Evaluación de modelos
 
-> **Tip:** Si encuentras notebooks duplicados o versiones viejas, utiliza solo los listados arriba para un flujo limpio y profesional.
-
-## 📝 Notas
-- No subas la carpeta `venv/` ni archivos grandes de datos al repo.
-- Si agregas nuevas dependencias, actualiza `requirements.txt` con `pip freeze > requirements.txt`.
-
----
-
-¡Listo para analizar y modelar! 🚀
