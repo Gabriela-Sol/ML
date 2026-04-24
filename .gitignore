@@ -109,6 +109,3 @@ dmypy.json
 # datasets/
 
 # Modelos
-models/*.pkl
-models/*.h5
-models/*.joblib
